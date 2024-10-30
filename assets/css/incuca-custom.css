@@ -1,0 +1,45 @@
+.wrap {
+    background-color: #f5f8ff !important;
+    padding: 20px !important;
+    border-radius: 8px !important;
+}
+
+h1, p {
+    color: #31363e !important;
+}
+
+.btn-primary {
+    background-color: #6366F1 !important;
+    border-color: #6366F1 !important;
+    color: #ffffff !important;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #4044ee !important;
+    border-color: #3438ed !important;
+    transition: 0.2s !important;
+}
+
+.input-group, .alert {
+    max-width: 800px !important;
+    margin-bottom: 20px;
+}
+
+.input-group-append .btn {
+    color: #31363e !important;
+}
+
+.form-check-input:checked {
+    background-color: #6366F1 !important;
+    border-color: #6366F1 !important;
+}
+
+.form-switch .form-check-input {
+    float: none;
+    background-repeat: no-repeat;
+}
+
+#api_key {
+    display: none;
+}
